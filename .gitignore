@@ -5,3 +5,5 @@ output/
 *.df
 __pycache__
 ref
+llama-2-7b-hf/
+dataset/
